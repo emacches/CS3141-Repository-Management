@@ -4,6 +4,5 @@ class CS3141Github
 	{
 		System.out.println("This is an example of a java file.");
 		System.out.println("Hello world!");
-		System.out.println("I love Computer Science!");
 	}
 }
